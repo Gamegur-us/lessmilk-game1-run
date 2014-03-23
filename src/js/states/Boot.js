@@ -21,7 +21,7 @@ var GameCtrl = {
 			this.load.spritesheet('player', 'assets/images/player.png', 20, 24);
 			this.load.spritesheet('enemy1', 'assets/images/enemy1.png', 32, 36);
 			this.load.spritesheet('enemy2', 'assets/images/enemy2.png', 28, 40);
-			this.load.audio('hit', 'assets/sounds/hit.wav');
+			this.load.audio('hit', 'assets/audio/hit.wav');
 
 		},
 		create: function () {
