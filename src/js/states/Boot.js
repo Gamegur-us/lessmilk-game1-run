@@ -2,6 +2,7 @@ var GameCtrl = {
 	global:{ score: 0 }
 };
 
+
 (function(){
 	'use strict';
 

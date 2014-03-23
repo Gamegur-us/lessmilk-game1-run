@@ -1,7 +1,4 @@
-
 /* global GameCtrl */
-
-
 (function(){
 	'use strict';
 
